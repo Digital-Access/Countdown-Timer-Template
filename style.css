@@ -58,9 +58,9 @@ h2 {
     font-size: 3rem;
     height: 7rem;
     width: 7rem;
-    color: #1195DB;
+    color: white;
     font-family: 'Pattaya', sans-serif;
-    background-color: rgb(100, 0, 0);
+    background-color: #1195DB;
     border-radius: 10%;
     justify-content: center;
     align-items: center;
