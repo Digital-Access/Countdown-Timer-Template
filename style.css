@@ -70,7 +70,7 @@ h2 {
 
 .subtext {
     margin-top: 2rem;
-    color: hsl(0, 66%, 100%);
+    color: rgb(0, 66, 100);
 }
 
 @media (max-width: 550px) {
